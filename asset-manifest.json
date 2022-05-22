@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_people-table-advanced/static/css/main.e35b902c.chunk.css",
-    "main.js": "/react_people-table-advanced/static/js/main.f14a1f49.chunk.js",
-    "main.js.map": "/react_people-table-advanced/static/js/main.f14a1f49.chunk.js.map",
+    "main.js": "/react_people-table-advanced/static/js/main.c6a41ddf.chunk.js",
+    "main.js.map": "/react_people-table-advanced/static/js/main.c6a41ddf.chunk.js.map",
     "runtime-main.js": "/react_people-table-advanced/static/js/runtime-main.45e62cc9.js",
     "runtime-main.js.map": "/react_people-table-advanced/static/js/runtime-main.45e62cc9.js.map",
     "static/js/2.27a4e82f.chunk.js": "/react_people-table-advanced/static/js/2.27a4e82f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.45e62cc9.js",
     "static/js/2.27a4e82f.chunk.js",
     "static/css/main.e35b902c.chunk.css",
-    "static/js/main.f14a1f49.chunk.js"
+    "static/js/main.c6a41ddf.chunk.js"
   ]
 }
